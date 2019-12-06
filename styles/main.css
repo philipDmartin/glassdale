@@ -1,0 +1,8 @@
+.criminals {
+    border: double black;
+    width: 150px;
+    height: 150px;
+    font-family: fantasy;
+    padding: 50px;
+    margin: 50px;
+}
